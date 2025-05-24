@@ -2,8 +2,8 @@
 <h3 align="center">i'm a web designer/web developer from greece</h3>
 <p>I'm studying computer science and I have a bachelor in philosophy. I'm interested in web development and web design. I'm a creative person who likes to discover new things and extend my capabilities to their fullest. I want to create applications and software, as well as process multimedia. I always aim for the growth of my abilities for the best result.</p>
 
-- 📄 check my website: [https://iwnelion.github.io/website/](https://iwnelion.github.io/website/)
-- check my cv: 
+- check my website: [https://iwnelion.github.io/website/](https://iwnelion.github.io/website/)
+- check my resume: [https://iwnelion.github.io/my_resume_example/](https://iwnelion.github.io/my_resume_example/)
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
