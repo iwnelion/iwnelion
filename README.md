@@ -7,7 +7,7 @@
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/iwn.elion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/instagram.svg" alt="iwn.elion" height="30" width="40" /></a>
+  <a href="https://instagram.com/iwn.elion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iwn.elion" height="30" width="40" /></a>
   <a href="https://twitter.com/iwnelion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iwnelion" height="30" width="40" /></a>
 </p>
 
