@@ -18,10 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwnelion&show_icons=true&locale=en&layout=compact" alt="iwnelion" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iwnelion&show_icons=true&locale=en" alt="iwnelion" /></p>
-
----
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iwnelion&show_icons=true&locale=en)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iwnelion)
-
-
