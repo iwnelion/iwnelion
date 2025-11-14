@@ -3,6 +3,7 @@
 <p>I'm studying computer science and I have a bachelor in philosophy. I'm interested in web development and web design. I'm a creative person who likes to discover new things and extend my capabilities to their fullest. I want to create applications and software, as well as process multimedia. I always aim for the growth of my abilities for the best result.</p>
 
 - check my website: [https://iwnelion.github.io/website/](https://iwnelion.github.io/website/)
+- check my website: [https://iwnelion.carrd.co/](https://iwnelion.carrd.co/)
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
