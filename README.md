@@ -1,6 +1,8 @@
 <h1 align="center">hello, i'm joana</h1>
 <h3 align="center">i'm a web designer/web developer from greece</h3>
-<p>I'm studying computer science and I have a bachelor in philosophy. I'm interested in web development and web design. I'm a creative person who likes to discover new things and extend my capabilities to their fullest. I want to create applications and software, as well as process multimedia. I always aim for the growth of my abilities for the best result.</p>
+<p>I'm a computer science graduate and I have a bachelor degree in philosophy. I'm a web designer / developer from Greece. I'm a creative person who likes to discover new things and extend my capabilities to their fullest.</p>
+<p>I want to create software and applications.</p>
+<p>I always aim for the growth of my abilities for the best result.</p>
 
 - check my website: [https://iwnelion.github.io/website/](https://iwnelion.github.io/website/)
 - check my website: [https://iwnelion.carrd.co/](https://iwnelion.carrd.co/)
