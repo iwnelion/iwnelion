@@ -1,5 +1,5 @@
 <h1 align="center">hello, i'm joana</h1>
-<h3 align="center">i'm a web designer/web developer from greece</h3>
+<h3 align="center">i'm a web designer / developer from greece</h3>
 <p>I'm a computer science graduate and I have a bachelor degree in philosophy. I'm a web designer / developer from Greece. I'm a creative person who likes to discover new things and extend my capabilities to their fullest.</p>
 <p>I want to create software and applications.</p>
 <p>I always aim for the growth of my abilities for the best result.</p>
