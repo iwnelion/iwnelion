@@ -4,7 +4,6 @@
 <p>I want to create software and applications.</p>
 <p>I always aim for the growth of my abilities for the best result.</p>
 
-- check my website: [https://iwnelion.github.io/website/](https://iwnelion.github.io/website/)
 - check my website: [https://iwnelion.carrd.co/](https://iwnelion.carrd.co/)
 
 <h3 align="left">connect with me:</h3>
