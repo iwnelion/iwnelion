@@ -2,7 +2,7 @@
 <h1 align="center">hello, i'm joana</h1>
 <h3 align="center">Web Designer & Developer from Greece</h3>
 <p>I'm a computer science graduate with a BA in philosophy. I'm a web designer / developer. I build modern web applications and websites using front-end technologies, with experience in multiple programming languages and problem-solving.</p>
-- check my website: [https://iwnelion.carrd.co/](https://iwnelion.carrd.co/)
+- check my website: https://iwnelion.carrd.co/
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
